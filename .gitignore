@@ -131,4 +131,5 @@ dmypy.json
 ## data 
 data
 /research_env/Tensorflow_Training/Churn_Modelling.csv
-
+/research_env/mlruns/
+/research_env/Tensorflow_Training/mlruns/
