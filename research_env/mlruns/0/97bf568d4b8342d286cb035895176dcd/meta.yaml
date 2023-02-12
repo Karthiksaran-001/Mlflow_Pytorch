@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/AIOPS/ML-Flow/Mlflow_Pytorch/research_env/mlruns/0/97bf568d4b8342d286cb035895176dcd/artifacts
+end_time: 1676126357075
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 97bf568d4b8342d286cb035895176dcd
+run_name: ambitious-moth-304
+run_uuid: 97bf568d4b8342d286cb035895176dcd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676126351113
+status: 4
+tags: []
+user_id: admin

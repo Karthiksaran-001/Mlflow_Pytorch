@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/AIOPS/ML-Flow/Mlflow_Pytorch/research_env/Tensorflow_Training/mlruns/0/a6bcf89e8b8c445ca99d090d35a6676d/artifacts
+end_time: 1676170986285
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a6bcf89e8b8c445ca99d090d35a6676d
+run_name: kindly-sponge-328
+run_uuid: a6bcf89e8b8c445ca99d090d35a6676d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676170986219
+status: 4
+tags: []
+user_id: admin

@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/AIOPS/ML-Flow/Mlflow_Pytorch/research_env/Tensorflow_Training/mlruns/0/924068a3e1e542c59fd78c3630042626/artifacts
+end_time: 1676171489676
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 924068a3e1e542c59fd78c3630042626
+run_name: treasured-ant-166
+run_uuid: 924068a3e1e542c59fd78c3630042626
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676171489466
+status: 4
+tags: []
+user_id: admin

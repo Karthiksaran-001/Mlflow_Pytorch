@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/AIOPS/ML-Flow/Mlflow_Pytorch/research_env/mlruns/0/c662ad4f01d549f89fc4b1ac884b96d8/artifacts
+end_time: 1676126414933
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c662ad4f01d549f89fc4b1ac884b96d8
+run_name: funny-horse-675
+run_uuid: c662ad4f01d549f89fc4b1ac884b96d8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676126410630
+status: 3
+tags: []
+user_id: admin

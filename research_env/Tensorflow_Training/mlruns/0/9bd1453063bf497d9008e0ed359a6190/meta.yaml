@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/AIOPS/ML-Flow/Mlflow_Pytorch/research_env/Tensorflow_Training/mlruns/0/9bd1453063bf497d9008e0ed359a6190/artifacts
+end_time: 1676171506125
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9bd1453063bf497d9008e0ed359a6190
+run_name: thundering-fox-805
+run_uuid: 9bd1453063bf497d9008e0ed359a6190
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676171505921
+status: 3
+tags: []
+user_id: admin

@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/AIOPS/ML-Flow/Mlflow_Pytorch/research_env/Tensorflow_Training/mlruns/0/e08acf9b81ce4a1cad9b561a71245f57/artifacts
+end_time: 1676171944058
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e08acf9b81ce4a1cad9b561a71245f57
+run_name: handsome-elk-476
+run_uuid: e08acf9b81ce4a1cad9b561a71245f57
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676171933805
+status: 4
+tags: []
+user_id: admin

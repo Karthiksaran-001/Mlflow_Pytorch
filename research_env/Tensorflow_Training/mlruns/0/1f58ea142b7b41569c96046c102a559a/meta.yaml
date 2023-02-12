@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/AIOPS/ML-Flow/Mlflow_Pytorch/research_env/Tensorflow_Training/mlruns/0/1f58ea142b7b41569c96046c102a559a/artifacts
+end_time: 1676171813841
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1f58ea142b7b41569c96046c102a559a
+run_name: fortunate-crane-523
+run_uuid: 1f58ea142b7b41569c96046c102a559a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676171813632
+status: 4
+tags: []
+user_id: admin

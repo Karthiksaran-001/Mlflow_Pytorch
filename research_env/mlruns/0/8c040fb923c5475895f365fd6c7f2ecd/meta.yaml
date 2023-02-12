@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/AIOPS/ML-Flow/Mlflow_Pytorch/research_env/mlruns/0/8c040fb923c5475895f365fd6c7f2ecd/artifacts
+end_time: 1676126406017
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8c040fb923c5475895f365fd6c7f2ecd
+run_name: bustling-toad-462
+run_uuid: 8c040fb923c5475895f365fd6c7f2ecd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1676126401260
+status: 3
+tags: []
+user_id: admin
